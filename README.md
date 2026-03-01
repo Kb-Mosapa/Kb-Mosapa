@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, My name is Kabelo Mosapa 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📺 Certificates</h2>
+
+- ComptIA Security+
+- CompTIA CySA
+- Linux (LPIC-1)
+- Splunk
+- SC-200
+
+
 
 <!--
-**Kb-Mosapa/Kb-Mosapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
