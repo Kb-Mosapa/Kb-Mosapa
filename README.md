@@ -141,7 +141,7 @@ Look for the **“Skills demonstrated”** section in each repo README to quickl
 
 - 📧 Email: `your_email`  
 - 🔗 LinkedIn: `https://www.linkedin.com/in/your_linkedin/`  
-- 🌐 Portfolio: `https://kbmosapa.github.io`
+- 🌐 Portfolio: `https://github.com/Kb-Mosapa/`
 
 ---
 
