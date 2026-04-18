@@ -140,7 +140,7 @@ Look for the **“Skills demonstrated”** section in each repo README to quickl
 ## 📫 Contact
 
 - 📧 Email: `your_email`  
-- 🔗 LinkedIn: `https://www.linkedin.com/in/your_linkedin/`  
+- 🔗 LinkedIn: `www.linkedin.com/in/mosapa-kabelo-security-analyst`  
 - 🌐 Portfolio: `https://github.com/Kb-Mosapa/`
 
 ---
