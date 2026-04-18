@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yourg src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&color=0A <a href="https://www.linkedin.com/in/your_linkedin="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=a>
+  <a href="mailto:yourg src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&color=0A <a href="www.linkedin.com/in/mosapa-kabelo-security-analyst"https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=a>
   <a href="https://kbmosapao<img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat&logo=githubpages" src="https://komarev.com/ghpvc/?username=kb-mosapa&style=flat&color=
 ---
 
